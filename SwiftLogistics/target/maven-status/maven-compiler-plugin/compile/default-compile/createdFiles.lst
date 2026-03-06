@@ -1,0 +1,14 @@
+com\swiftlogistics\wms\service\StatusSimulationService.class
+com\swiftlogistics\wms\tcp\dto\TcpResponse$TcpResponseBuilder.class
+com\swiftlogistics\wms\enums\PackageStatus.class
+com\swiftlogistics\wms\entity\PackageEntity.class
+com\swiftlogistics\wms\config\RabbitMQConfig.class
+com\swiftlogistics\wms\tcp\TcpMessageHandler.class
+com\swiftlogistics\wms\tcp\dto\TcpResponse.class
+com\swiftlogistics\wms\tcp\dto\TcpRequest.class
+com\swiftlogistics\wms\service\PackageService.class
+com\swiftlogistics\wms\service\StatusSimulationService$1.class
+com\swiftlogistics\wms\config\TcpServerConfig.class
+com\swiftlogistics\wms\messaging\StatusPublisher.class
+com\swiftlogistics\wms\WmsApplication.class
+com\swiftlogistics\wms\repository\PackageRepository.class
