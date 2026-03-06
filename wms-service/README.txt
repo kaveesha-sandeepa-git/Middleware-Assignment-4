@@ -115,3 +115,41 @@ RabbitMQ publishes events
 ✔ Scalable design
 ✔ Middleware-compliant architecture
 
+
+
+SwiftLogistics/
+├── Middleware-Assignment-4/
+├── src/
+│   └── main/
+│       ├── java/
+│       │   └── com/
+│       │       └── assignment_4/
+│       │           └── SwiftLogistics/
+│       │               └── services/
+│       │                   ├── entities/
+│       │                   └── repositories/
+│       └── resources/
+└── target/
+    ├── classes/
+    │   ├── com/
+    │   │   └── assignment_4/
+    │   │       └── SwiftLogistics/
+    │   │           ├── services/
+    │   │           │   ├── entities/
+    │   │           │   └── repositories/
+    │   │           └── wsdl/
+    │   └── META-INF/
+    │       └── JAXB/
+    ├── generated-sources/
+    │   └── jaxb/
+    │       ├── com/
+    │       │   └── assignment_4/
+    │       │       └── SwiftLogistics/
+    │       │           └── wsdl/
+    │       └── META-INF/
+    │           └── JAXB/
+    ├── maven-archiver/
+    └── maven-status/
+        └── maven-compiler-plugin/
+            └── compile/
+                └── default-compile/
